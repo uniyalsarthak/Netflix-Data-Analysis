@@ -1,5 +1,7 @@
 # 🎬 Netflix Data Analysis Using SQL  
 
+![Netflix Dashboard](https://github.com/uniyalsarthak/Netflix-Data-Analysis/blob/main/netflix_img.jpg)
+
 ## 📌 Project Overview  
 This project explores and analyzes Netflix’s catalog data using **PostgreSQL**.  
 
